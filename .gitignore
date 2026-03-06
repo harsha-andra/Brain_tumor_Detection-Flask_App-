@@ -1,0 +1,28 @@
+# Virtual environment
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Model file (too large for GitHub)
+models/
+*.pt
+*.pth
+*.pkl
+
+# Uploaded images
+static/photos/
+
+# Environment variables
+.env
+
+# VS Code / IDE
+.vscode/
+.idea/
+
+# Windows
+Thumbs.db
+desktop.ini
