@@ -1,4 +1,4 @@
-# Brain Tumor Detection (End-to-End)
+# Brain Tumor Detection (Flask-App)
 
 ## Introduction
 
